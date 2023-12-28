@@ -1,0 +1,20 @@
+.product-nav-container {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  border-radius: 4px;
+  background-color: var(--color-bg-tertiary);
+}
+
+.menu-item-category {
+  margin-left: 20px;
+}
+
+.menu-item {
+  font-size: 16px;
+  color: var(--color-font-secondary);
+}
+
+.menu-active {
+  font-weight: bold;
+}

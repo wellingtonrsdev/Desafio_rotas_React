@@ -1,0 +1,30 @@
+header {
+  height: 70px;
+  display: flex;
+  margin-bottom: 20px;
+  background-color: var(--color-bg-secondary);
+}
+
+nav {
+  display: flex;
+}
+
+.navbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menu-item-header {
+  margin-right: 20px;
+  font-size: 16px;
+  color: var(--color-font-primary);
+}
+
+.menu-home img {
+  height: 30px;
+}
+
+.menu-active {
+  font-weight: 700;
+}
