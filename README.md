@@ -28,7 +28,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 1. Clone o código fonte
 
    ```bash
-    git clone git@github.com:wellingtonrsdev/desafio-rotas.git
+    git clone git@github.com:wellingtonrsdev/Desafio_rotas_React.git
    ```
 
 2. Abra o projeto em sua IDE de preferência(utilizado o Visual Studio Code).
